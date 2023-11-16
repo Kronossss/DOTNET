@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CAJuWtxMD2HezHSEZ+Zp1EuYRMBwT1SjCLXZny2+nr8FX8QLWNgNkDbwAIe+IhIeQdO/Je1xqSO+tsxiI8JlqA==",
+  "dgSpecHash": "a3f6fcjm5n5fz9+ofLgqNGCEzhTR0cr4Qe1hepj3rFUgvN5xZmnralG9mGWgPsslPqlHNUwv9DKCazLi5aQUFQ==",
   "success": true,
-  "projectFilePath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana1/Semana1.csproj",
+  "projectFilePath": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana1/Semana1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

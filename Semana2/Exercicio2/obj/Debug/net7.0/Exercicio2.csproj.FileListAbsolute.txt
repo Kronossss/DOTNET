@@ -1,0 +1,15 @@
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/bin/Debug/net7.0/Exercicio2
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/bin/Debug/net7.0/Exercicio2.deps.json
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/bin/Debug/net7.0/Exercicio2.runtimeconfig.json
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/bin/Debug/net7.0/Exercicio2.dll
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/bin/Debug/net7.0/Exercicio2.pdb
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.csproj.AssemblyReference.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.AssemblyInfoInputs.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.AssemblyInfo.cs
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.csproj.CoreCompileInputs.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.dll
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/refint/Exercicio2.dll
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.pdb
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/Exercicio2.genruntimeconfig.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio2/obj/Debug/net7.0/ref/Exercicio2.dll

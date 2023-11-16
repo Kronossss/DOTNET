@@ -1,0 +1,15 @@
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/bin/Debug/net7.0/aula
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/bin/Debug/net7.0/aula.deps.json
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/bin/Debug/net7.0/aula.runtimeconfig.json
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/bin/Debug/net7.0/aula.dll
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/bin/Debug/net7.0/aula.pdb
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.csproj.AssemblyReference.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.AssemblyInfoInputs.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.AssemblyInfo.cs
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.csproj.CoreCompileInputs.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.dll
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/refint/aula.dll
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.pdb
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/aula.genruntimeconfig.cache
+/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/Debug/net7.0/ref/aula.dll
