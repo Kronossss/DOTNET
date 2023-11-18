@@ -1,0 +1,5 @@
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\questao1e2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\questao1e2.AssemblyInfoInputs.cache
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\questao1e2.AssemblyInfo.cs
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\questao1e2.csproj.CoreCompileInputs.cache
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\questao1e2.sourcelink.json

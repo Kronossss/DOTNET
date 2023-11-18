@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio1/Exercicio1.csproj": {}
+    "D:\\Programação\\Dot\\DOTNET\\Semana2\\Exercicio1\\Exercicio1.csproj": {}
   },
   "projects": {
-    "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio1/Exercicio1.csproj": {
+    "D:\\Programação\\Dot\\DOTNET\\Semana2\\Exercicio1\\Exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio1/Exercicio1.csproj",
+        "projectUniqueName": "D:\\Programação\\Dot\\DOTNET\\Semana2\\Exercicio1\\Exercicio1.csproj",
         "projectName": "Exercicio1",
-        "projectPath": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio1/Exercicio1.csproj",
-        "packagesPath": "/home/igor-alex-almeida/.nuget/packages/",
-        "outputPath": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio1/obj/",
+        "projectPath": "D:\\Programação\\Dot\\DOTNET\\Semana2\\Exercicio1\\Exercicio1.csproj",
+        "packagesPath": "C:\\Users\\igora\\.nuget\\packages\\",
+        "outputPath": "D:\\Programação\\Dot\\DOTNET\\Semana2\\Exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/igor-alex-almeida/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\igora\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

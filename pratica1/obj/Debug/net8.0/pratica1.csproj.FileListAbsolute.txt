@@ -1,0 +1,15 @@
+D:\Programação\Dot\DOTNET\pratica1\bin\Debug\net8.0\pratica1.exe
+D:\Programação\Dot\DOTNET\pratica1\bin\Debug\net8.0\pratica1.deps.json
+D:\Programação\Dot\DOTNET\pratica1\bin\Debug\net8.0\pratica1.runtimeconfig.json
+D:\Programação\Dot\DOTNET\pratica1\bin\Debug\net8.0\pratica1.dll
+D:\Programação\Dot\DOTNET\pratica1\bin\Debug\net8.0\pratica1.pdb
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.AssemblyInfoInputs.cache
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.AssemblyInfo.cs
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.csproj.CoreCompileInputs.cache
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.sourcelink.json
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.dll
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\refint\pratica1.dll
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.pdb
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\pratica1.genruntimeconfig.cache
+D:\Programação\Dot\DOTNET\pratica1\obj\Debug\net8.0\ref\pratica1.dll

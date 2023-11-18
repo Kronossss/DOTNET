@@ -1,0 +1,15 @@
+D:\Programação\Dot\DOTNET\questao3\bin\Debug\net8.0\questao3.exe
+D:\Programação\Dot\DOTNET\questao3\bin\Debug\net8.0\questao3.deps.json
+D:\Programação\Dot\DOTNET\questao3\bin\Debug\net8.0\questao3.runtimeconfig.json
+D:\Programação\Dot\DOTNET\questao3\bin\Debug\net8.0\questao3.dll
+D:\Programação\Dot\DOTNET\questao3\bin\Debug\net8.0\questao3.pdb
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.AssemblyInfoInputs.cache
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.AssemblyInfo.cs
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.csproj.CoreCompileInputs.cache
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.sourcelink.json
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.dll
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\refint\questao3.dll
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.pdb
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\questao3.genruntimeconfig.cache
+D:\Programação\Dot\DOTNET\questao3\obj\Debug\net8.0\ref\questao3.dll
