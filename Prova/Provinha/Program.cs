@@ -96,4 +96,9 @@ class Relatorios
         return clientes.Where(c => c.Profissao.Contains(textoProfissao,StringComparison.OrdinalIgnoreCase));
     }
 
+    public static IEnumerable<Pessoa> AniversarianteDoMes(List<Advogado> advogados, List<Cliente> clientes, int mes)
+    {
+        return advogados.Cast<Pessoa>().Concat(clientes.Cast<Pessoa>()).Where(p => p.DataNascimento.Month == mes).OrderBy(p => p.DataNascimento.Day);
+    }
+
 }
