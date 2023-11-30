@@ -14,7 +14,7 @@ class Program {
             
 
             clientes.Add(new Cliente("Cli1",new DateTime (1999, 9, 9),"08419437531","Solteiro","Prof1"));
-            clientes.Add(new Cliente("Cli2",new DateTime (1998, 5, 5),"08419437532","Casado","Prof2"));
+            clientes.Add(new Cliente("Cli2",new DateTime (1998, 5, 5),"0841943753","Casado","Prof2"));
         }
         catch (ArgumentException ex){
             Console.WriteLine($"Erro ao adcionar pessoa  :  {ex.Message}");
@@ -101,7 +101,7 @@ class Advogado : Pessoa
 
     public Advogado (string nome, DateTime dataNascimento, string cpf, string cna) : base(nome, dataNascimento,cpf)
     {
-        SetCna(cna);
+        CNA = cna;
     }
 }
 
