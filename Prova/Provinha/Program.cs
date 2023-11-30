@@ -81,6 +81,14 @@ class Relatorios
         return clientes.Where(c => dataAtual.Year - c.DataNascimento.Year >= idadeMin && dataAtual.Year -c.DataNascimento.Year <= idadeMax);
     }
 
-    public 
+    public static IEnumerable<Cliente> ClientePorEstadoCivil(List<Cliente>clientes, string estadoCivil)
+    {
+        return clientes.Where(c => c.EstadoCivil.Equals(estadoCivil,StringComparison.OrdinalIgnoreCase));
+    }
+
+    public static IEnumerable<Cliente> ClienteEmOrdemAlfabetica(List<Cliente>clientes)
+    {
+        return clientes.OrderBy(c => c.Nome);
+    }
 
 }
