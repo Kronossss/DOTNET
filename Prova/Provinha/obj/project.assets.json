@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/Exercicio2/Exercicio2.csproj",
-      "projectName": "Exercicio2",
-      "projectPath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/Exercicio2/Exercicio2.csproj",
+      "projectUniqueName": "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/Provinha.csproj",
+      "projectName": "Provinha",
+      "projectPath": "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/Provinha.csproj",
       "packagesPath": "/home/igor-alex-almeida/.nuget/packages/",
-      "outputPath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/Exercicio2/obj/",
+      "outputPath": "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/igor-alex-almeida/.nuget/NuGet/NuGet.Config"

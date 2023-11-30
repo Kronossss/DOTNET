@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/igor-alex-almeida/Documentos/DOTNET/Semana1/Semana1.csproj": {}
+    "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/Provinha.csproj": {}
   },
   "projects": {
-    "/home/igor-alex-almeida/Documentos/DOTNET/Semana1/Semana1.csproj": {
+    "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/Provinha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/igor-alex-almeida/Documentos/DOTNET/Semana1/Semana1.csproj",
-        "projectName": "Semana1",
-        "projectPath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana1/Semana1.csproj",
+        "projectUniqueName": "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/Provinha.csproj",
+        "projectName": "Provinha",
+        "projectPath": "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/Provinha.csproj",
         "packagesPath": "/home/igor-alex-almeida/.nuget/packages/",
-        "outputPath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana1/obj/",
+        "outputPath": "/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/igor-alex-almeida/.nuget/NuGet/NuGet.Config"

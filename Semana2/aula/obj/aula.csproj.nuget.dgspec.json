@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/aula.csproj": {}
+    "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/aula/aula.csproj": {}
   },
   "projects": {
-    "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/aula.csproj": {
+    "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/aula/aula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/aula.csproj",
+        "projectUniqueName": "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/aula/aula.csproj",
         "projectName": "aula",
-        "projectPath": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/aula.csproj",
+        "projectPath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/aula/aula.csproj",
         "packagesPath": "/home/igor-alex-almeida/.nuget/packages/",
-        "outputPath": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/aula/obj/",
+        "outputPath": "/home/igor-alex-almeida/Documentos/DOTNET/Semana2/aula/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/igor-alex-almeida/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }
