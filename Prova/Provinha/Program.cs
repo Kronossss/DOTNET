@@ -70,7 +70,17 @@ class Cliente : Pessoa
 class Relatorios
 {
     public static IEnumerable<Advogado> AdvogadosEntreIdades(List<Advogado>advogados, int idadeMin, int idadeMax)
-{
-    
-}
+    {
+        var dataAtual =  DateTime.Now;
+        return advogados.Where(a => dataAtual.Year - a.DataNascimento.Year >= idadeMin && dataAtual.Year -a.DataNascimento.Year <= idadeMax);
+
+    }
+    public static IEnumerable<Cliente> ClientesEntreIdades(List<Cliente>clientes, int idadeMin, int idadeMax)
+    {
+        var dataAtual =  DateTime.Now;
+        return clientes.Where(c => dataAtual.Year - c.DataNascimento.Year >= idadeMin && dataAtual.Year -c.DataNascimento.Year <= idadeMax);
+    }
+
+    public 
+
 }
