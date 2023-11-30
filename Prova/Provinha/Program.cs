@@ -91,4 +91,9 @@ class Relatorios
         return clientes.OrderBy(c => c.Nome);
     }
 
+    public static IEnumerable<Cliente> ClientePorProfissao(List<Cliente>clientes, string textoProfissao)
+    {
+        return clientes.Where(c => c.Profissao.Contains(textoProfissao,StringComparison.OrdinalIgnoreCase));
+    }
+
 }
