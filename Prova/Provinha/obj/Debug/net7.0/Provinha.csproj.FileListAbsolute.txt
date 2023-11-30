@@ -1,0 +1,15 @@
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/bin/Debug/net7.0/Provinha
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/bin/Debug/net7.0/Provinha.deps.json
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/bin/Debug/net7.0/Provinha.runtimeconfig.json
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/bin/Debug/net7.0/Provinha.dll
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/bin/Debug/net7.0/Provinha.pdb
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.csproj.AssemblyReference.cache
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.AssemblyInfoInputs.cache
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.AssemblyInfo.cs
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.csproj.CoreCompileInputs.cache
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.dll
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/refint/Provinha.dll
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.pdb
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/Provinha.genruntimeconfig.cache
+/home/igor-alex-almeida/Documentos/DOTNET/Prova/Provinha/obj/Debug/net7.0/ref/Provinha.dll

@@ -9,7 +9,7 @@ class Program {
 
         try {
 
-            advogados.Add(new Advogado("Adv1", new DateTime (1980, 1, 1),"08419437530","CNA1"));
+            advogados.Add(new Advogado("Adv1", new DateTime (1990, 1, 1),"08419437530","CNA1"));
             advogados.Add(new Advogado("Adv2", new DateTime (1998, 7, 7),"12345678912","CNA2"));
             
 
@@ -42,6 +42,31 @@ class Program {
         {
             Console.WriteLine(cliente.Nome);
         }
+
+        Console.WriteLine("\n Clientes em ordem alfabética : ");
+        var clientesOrdedanos = Relatorios.ClienteEmOrdemAlfabetica(clientes);
+        foreach (var cliente in clientesOrdedanos)
+        {
+            Console.WriteLine(cliente.Nome);
+        }
+
+        Console.WriteLine("\n Clientes com profissão  contendo 'Prof' : ");
+        var ClientePorProfissao = Relatorios.ClientePorProfissao(clientes, "Prof");
+        foreach (var cliente in ClientePorProfissao)
+        {
+            Console.WriteLine(cliente.Nome);
+
+        }
+
+        Console.WriteLine("\n Advogados e Clientes aniversariantes em Setembro");
+        var aniversariantesSetembro = Relatorios.AniversarianteDoMes(advogados, clientes, 9);
+        foreach (var  pessoa in aniversariantesSetembro)
+        {
+            Console.WriteLine(pessoa.Nome);
+        }
+           
+        
+                
 
         
 
@@ -76,7 +101,7 @@ class Advogado : Pessoa
 
     public Advogado (string nome, DateTime dataNascimento, string cpf, string cna) : base(nome, dataNascimento,cpf)
     {
-        CNA = cna;
+        SetCna(cna);
     }
 }
 
