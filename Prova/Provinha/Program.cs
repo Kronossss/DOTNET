@@ -17,8 +17,33 @@ class Program {
             clientes.Add(new Cliente("Cli2",new DateTime (1998, 5, 5),"08419437532","Casado","Prof2"));
         }
         catch (ArgumentException ex){
-            Console.WriteLine($"Erro ao adcionar pessoa ou advogado  :  {ex.Message}");
+            Console.WriteLine($"Erro ao adcionar pessoa  :  {ex.Message}");
         }
+
+        Console.WriteLine("Advogados com idade entre 30 e 40 anos : ");
+        var advogadosRelatorio = Relatorios.AdvogadosEntreIdades(advogados, 30, 40);
+
+        foreach (var advogado in advogadosRelatorio)
+        {
+            Console.WriteLine(advogado.Nome);
+        }
+
+        Console.WriteLine("\n  Clientes  com idade entre 25 e 35 anos : ");
+        var clientesRelatorio = Relatorios.ClientesEntreIdades(clientes, 25, 35);
+
+        foreach (var cliente in clientesRelatorio)
+        {
+            Console.WriteLine(cliente.Nome);
+        }    
+
+        Console.WriteLine("\n Clientes Casados : ");
+        var clientesCasados = Relatorios.ClientePorEstadoCivil(clientes,"Casado");
+        foreach (var cliente in clientesCasados)
+        {
+            Console.WriteLine(cliente.Nome);
+        }
+
+        
 
     }
 }
