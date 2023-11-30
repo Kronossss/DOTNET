@@ -1,0 +1,15 @@
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\bin\Debug\net8.0\NET-P003.exe
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\bin\Debug\net8.0\NET-P003.deps.json
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\bin\Debug\net8.0\NET-P003.runtimeconfig.json
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\bin\Debug\net8.0\NET-P003.dll
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\bin\Debug\net8.0\NET-P003.pdb
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.AssemblyInfoInputs.cache
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.AssemblyInfo.cs
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.csproj.CoreCompileInputs.cache
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.sourcelink.json
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.dll
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\refint\NET-P003.dll
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.pdb
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\NET-P003.genruntimeconfig.cache
+C:\Users\igora\OneDrive\Documentos\DOTNET\Semana3\NET-P003\obj\Debug\net8.0\ref\NET-P003.dll

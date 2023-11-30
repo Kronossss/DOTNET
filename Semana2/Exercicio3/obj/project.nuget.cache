@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kN92IaMojvYOyZQlLirdNA/7XqK5q8F/7YbqeBD463zieDpDTmvotI7Ytlnw6wa3yuWiJxgWkA4juBmj8LmKbg==",
+  "dgSpecHash": "RXxNlNqjE/d9ivJVOZRbzJeAu6+lkgnLLFDliJIa2z94Uz1rXc23XtJfcLwQER0igYzHX9/PjPp46arZibxvFw==",
   "success": true,
-  "projectFilePath": "/home/igor-alex-almeida/Documentos/dotnet/DOTNET/Semana2/Exercicio3/Exercicio3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\igora\\OneDrive\\Documentos\\DOTNET\\Semana2\\Exercicio3\\Exercicio3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igora\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
